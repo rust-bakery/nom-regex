@@ -15,10 +15,7 @@
 //!   assert_eq!(parser("2019-10"), Ok(("", "2019-10")));
 //! }
 //! ```
-#[macro_use]
 extern crate nom;
-
-mod macros;
 
 pub mod lib {
     #[doc(hidden)]

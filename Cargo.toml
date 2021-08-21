@@ -13,7 +13,7 @@ categories = ["parsing"]
 regex = "1.0"
 
 [dependencies.nom]
-version = "7.0.0-alpha1"
+version = "7.0.0"
 default-features = false
 
 [features]
