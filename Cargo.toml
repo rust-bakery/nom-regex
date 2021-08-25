@@ -6,6 +6,9 @@ description = "regular expressions for nom parsers"
 license = "MIT"
 keywords = ["parser", "parser-combinators", "regex"]
 categories = ["parsing"]
+repository = "https://github.com/rust-bakery/nom-regex"
+readme = "README.md"
+documentation = "https://docs.rs/nom-regex"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
